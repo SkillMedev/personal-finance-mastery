@@ -1,8 +1,8 @@
 # Personal Finance Mastery
 
-**Build a solid financial foundation — budget, pay off debt, and plan for the future.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**Take control of your money: budget, kill debt, build savings, retire on track.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-Personal Finance Mastery brings together eight skills that cover the full personal finance lifecycle, from building a first budget to projecting retirement readiness. Each skill provides concrete, opinionated frameworks so users can take action immediately rather than getting lost in abstract advice.
+Reach for this when you want to stop reacting to money and start running it on a plan. It walks the full personal-finance arc with opinionated, do-it-now frameworks: build a zero-based budget, size and fund an emergency cushion, sequence your debt payoff, pressure-test big purchases, cut your tax bill, and project whether your savings rate actually gets you to retirement. The outcome is a concrete plan grounded in your real numbers, not generic advice — so every dollar has a job and you know your trajectory.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
