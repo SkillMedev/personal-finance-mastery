@@ -14,14 +14,14 @@ Reach for this when you want to stop reacting to money and start running it on a
 
 ## Skills in this pack
 
-- **[Budget Builder](skills/budget-builder/SKILL.md)** — Builds a zero-based monthly budget from scratch.
-- **[Debt Payoff Planner](skills/debt-payoff-planner/SKILL.md)** — Plans an aggressive debt payoff strategy using avalanche or snowball methods.
-- **[Tax Optimization](skills/tax-optimization/SKILL.md)** — Identifies legal strategies to reduce taxable income and maximize tax-advantaged accounts.
-- **[Retirement Projection](skills/retirement-projection/SKILL.md)** — Projects retirement readiness by calculating savings rate, target nest egg, and time to FI.
-- **[Emergency Fund Planner](skills/emergency-fund-planner/SKILL.md)** — Sizes and builds an emergency fund based on income stability, fixed expenses, and household risk.
-- **[Big Purchase Decision](skills/big-purchase-decision/SKILL.md)** — Evaluates whether a major purchase is financially sound using total cost of ownership, opportunity cost, and timing criteria.
-- **[Personal Financial Planner](skills/financial-planner/SKILL.md)** — Budgeting, debt payoff, and savings planning grounded in the user's real numbers.
-- **[Investment Basics](skills/investment-basics/SKILL.md)** — Explains personal investment fundamentals: asset allocation, rebalancing, tax-efficient accounts.
+- **[Budget Builder](skills/budget-builder/SKILL.md)** — Builds a zero-based monthly budget from take-home income using the 50/30/20 framework with explicit adaptation rules and sinking funds for irregular expenses.
+- **[Debt Payoff Planner](skills/debt-payoff-planner/SKILL.md)** — Builds a sequenced multi-debt payoff plan — avalanche or snowball chosen by explicit decision rules — with the rollover schedule, total-interest math, and a debt-free date.
+- **[Tax Optimization](skills/tax-optimization/SKILL.md)** — Works through the legal tax-reduction sequence — tax-advantaged account priority, standard-vs-itemized decision math, tax-loss harvesting, income timing, and Roth-vs-traditional rules — and produces a personal tax checklist.
+- **[Retirement Projection](skills/retirement-projection/SKILL.md)** — Projects retirement readiness from savings rate, target nest egg, and compound growth — computes the required portfolio via safe-withdrawal-rate math, years to financial independence, and pension or Social Security offsets, with a runnable calculator.
+- **[Emergency Fund Planner](skills/emergency-fund-planner/SKILL.md)** — Sizes an emergency fund from essential expenses and household risk tier, picks the right account, and builds the funding and replenishment schedule.
+- **[Big Purchase Decision](skills/big-purchase-decision/SKILL.md)** — Evaluates a major purchase with total cost of ownership, opportunity cost, affordability red lines, and a cooling-off rule, producing a scored buy/wait/walk verdict.
+- **[Personal Financial Planner](skills/financial-planner/SKILL.md)** — Builds a complete personal financial plan — a prioritized order of operations across budgeting, emergency savings, debt payoff, and goals — from the user's actual numbers, then routes each piece to the right specialist skill.
+- **[Investment Basics](skills/investment-basics/SKILL.md)** — Teaches personal investing fundamentals — readiness checks, asset allocation, diversification with low-cost index funds, fee awareness, tax-advantaged account ordering, and rebalancing — and produces a written starter plan.
 
 ## License
 
