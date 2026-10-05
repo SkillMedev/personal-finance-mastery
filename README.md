@@ -1,16 +1,17 @@
 # Personal Finance Mastery
 
-**Take control of your money: budget, kill debt, build savings, retire on track.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**Take control of your money: budget, kill debt, build savings, retire on track.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-personal-finance-mastery).
 
 Reach for this when you want to stop reacting to money and start running it on a plan. It walks the full personal-finance arc with opinionated, do-it-now frameworks: build a zero-based budget, size and fund an emergency cushion, sequence your debt payoff, pressure-test big purchases, cut your tax bill, and project whether your savings rate actually gets you to retirement. The outcome is a concrete plan grounded in your real numbers, not generic advice - so every dollar has a job and you know your trajectory.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/personal-finance-mastery](https://skillme.dev/pack/personal-finance-mastery) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/personal-finance-mastery?utm_source=github&utm_medium=readme&utm_campaign=pack-personal-finance-mastery) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add budget-builder debt-payoff-planner tax-optimization retirement-projection emergency-fund-planner big-purchase-decision financial-planner investment-basics --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/personal-finance-mastery`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -26,4 +27,4 @@ Reach for this when you want to stop reacting to money and start running it on a
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-personal-finance-mastery).
